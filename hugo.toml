@@ -1,0 +1,61 @@
+baseURL = 'https://rocketrooks.xyz/'
+languageCode = 'en'
+title = '🚀♖ Rocket Rooks'
+theme = 'risotto-0.4.0'
+enableEmoji = true
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "dracula"
+
+[params.about]
+title = '🚀♖ Rocket Rooks'
+description = "CRANK Rocket Rooks"
+#logo = "🚀"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-globe"
+title = "CRANK Website"
+url = "https://crank.com.au"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-flag"
+title = "CTFtime"
+url = "https://ctftime.org/team/277197"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "Github"
+url = "https://github.com/Rocket-Rooks"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
