@@ -7,5 +7,5 @@ author: dsgrace
 ---
 # ~:house:
 \> [About](/about)  
-\> [Posts](/post)
+\> [Posts](/post)  
 \> [Writeups](/writeup)
