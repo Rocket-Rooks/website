@@ -11,7 +11,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "dracula"
+palette = "base16-dark"
 
 [params.about]
 title = '🚀♖ Rocket Rooks'
