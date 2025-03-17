@@ -8,3 +8,4 @@ author: dsgrace
 # ~:house:
 \> [About](/about)  
 \> [Posts](/post)
+\> [Writeups](/writeup)
