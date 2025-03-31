@@ -13,9 +13,9 @@ series: SwampCTF2025
 | Challenge Name: | On Thin Ice |
 | Author:         | snth        |
 
-![](/img/swampctf2025_challenge.png)
+![](/img/swampctf2025_oti_challenge.png)
 
-![](/img/swampctf2025_blank.jpg)
+![](/img/swampctf2025_oti_blank.jpg)
 
 The image is very dark and nothing visually identifiable. 
 
